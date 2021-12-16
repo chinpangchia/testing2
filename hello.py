@@ -4,3 +4,5 @@ for i in range(10):
 print("Hello World")
 
 print("Bye World")
+
+print("BYE")
