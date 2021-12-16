@@ -8,3 +8,5 @@ print("Bye World")
 print("BYE")
 
 print("Sayonara")
+
+print("FK you")
